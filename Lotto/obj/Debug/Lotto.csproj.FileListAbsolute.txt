@@ -1,0 +1,9 @@
+c:\users\ardy\documents\visual studio 2013\Projects\Lotto\Lotto\bin\Debug\Lotto.exe.config
+c:\users\ardy\documents\visual studio 2013\Projects\Lotto\Lotto\bin\Debug\Lotto.exe
+c:\users\ardy\documents\visual studio 2013\Projects\Lotto\Lotto\bin\Debug\Lotto.pdb
+c:\users\ardy\documents\visual studio 2013\Projects\Lotto\Lotto\obj\Debug\Lotto.csprojResolveAssemblyReference.cache
+c:\users\ardy\documents\visual studio 2013\Projects\Lotto\Lotto\obj\Debug\Lotto.Form1.resources
+c:\users\ardy\documents\visual studio 2013\Projects\Lotto\Lotto\obj\Debug\Lotto.Properties.Resources.resources
+c:\users\ardy\documents\visual studio 2013\Projects\Lotto\Lotto\obj\Debug\Lotto.csproj.GenerateResource.Cache
+c:\users\ardy\documents\visual studio 2013\Projects\Lotto\Lotto\obj\Debug\Lotto.exe
+c:\users\ardy\documents\visual studio 2013\Projects\Lotto\Lotto\obj\Debug\Lotto.pdb
